@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,WAAY,CACZ,gBAAiB,CAEjB,YACE,aAAc,CACd,iBAAkB","file":"main.7131ab70.chunk.css","sourcesContent":["// Put styles here\n.App {\n  width: 500px;\n  margin: 50px auto;\n\n  &__title {\n    margin: 32px 0;\n    text-align: center;\n  }\n}\n"]}
